@@ -1,0 +1,11 @@
+git status -
+git fetch - update in end
+git checkout (branch)
+git commit - save my work [comment on the changes] to i (insert mode)
+esc :wq to save the comments
+
+get push - whenever your down for the day save all files. to remote
+
+
+git checkout (branch)
+git checkout  -b
